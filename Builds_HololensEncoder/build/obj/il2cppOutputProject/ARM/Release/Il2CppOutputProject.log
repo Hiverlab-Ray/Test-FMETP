@@ -1,0 +1,74 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\ARM\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX64\ARM\cl.exe
+  
+  	Output directory: D:\Unity Projects\Test_FMETP 2\Builds_HololensEncoder\build\bin\ARM\Release
+  	Cache directory: D:\Unity Projects\Test_FMETP 2\Builds_HololensEncoder\build\obj\il2cppOutputProject\ARM\Release
+  Il2CppGenericMethodTable.c
+  Il2CppGenericClassTable.c
+  Il2CppGenericMethodPointerTable.cpp
+  Il2CppMetadataUsage.c
+  Il2CppInteropDataTable.cpp
+  Il2CppCompilerCalculateTypeValues2.cpp
+  GenericMethods9.cpp
+  GenericMethods5.cpp
+  Il2CppTypeDefinitions.c
+  GenericMethods1.cpp
+  Il2CppInvokerTable.cpp
+  Il2CppAttributes.cpp
+  Generics48.cpp
+  GenericMethods10.cpp
+  Il2CppGenericInstDefinitions.c
+  Generics8.cpp
+  GenericMethods7.cpp
+  Assembly-CSharp1.cpp
+  GenericMethods6.cpp
+  Generics22.cpp
+  Generics1.cpp
+  GenericMethods2.cpp
+  GenericMethods4.cpp
+  Assembly-CSharp.cpp
+  Assembly-CSharp2.cpp
+  Generics47.cpp
+  Generics.cpp
+  Generics55.cpp
+  Il2CppComCallableWrappers13.cpp
+  GenericMethods.cpp
+  Generics39.cpp
+  UnresolvedVirtualCallStubs.cpp
+  Generics58.cpp
+  Il2CppComCallableWrappers2.cpp
+  Generics37.cpp
+  Assembly-CSharp3.cpp
+  Generics38.cpp
+  Generics26.cpp
+  GenericMethods3.cpp
+  Generics33.cpp
+  Il2CppComCallableWrappers32.cpp
+  Generics52.cpp
+  Generics29.cpp
+  Generics42.cpp
+  Generics7.cpp
+  Il2CppComCallableWrappers14.cpp
+  Assembly-CSharp_CodeGen.c
+  Il2CppComCallableWrappers33.cpp
+  Generics46.cpp
+  Generics4.cpp
+  Generics15.cpp
+  ObjectFiles: 358 of which compiled: 51
+  	Time Compile: 14108 milliseconds Il2CppComCallableWrappers32.cpp
+  	Time Compile: 13212 milliseconds Il2CppComCallableWrappers14.cpp
+  	Time Compile: 10900 milliseconds Il2CppAttributes.cpp
+  	Time Compile: 10721 milliseconds Il2CppComCallableWrappers13.cpp
+  	Time Compile: 10686 milliseconds Il2CppInvokerTable.cpp
+  	Time Compile: 10107 milliseconds Il2CppTypeDefinitions.c
+  	Time Compile: 9973 milliseconds Il2CppComCallableWrappers2.cpp
+  	Time Compile: 9036 milliseconds GenericMethods2.cpp
+  	Time Compile: 8828 milliseconds Generics33.cpp
+  	Time Compile: 8409 milliseconds GenericMethods3.cpp
+  Total compilation time: 56162 milliseconds.
+  Creating library D:\Unity Projects\Test_FMETP 2\Builds_HololensEncoder\build\obj\il2cppOutputProject\ARM\Release\linkresult_87B6BB32D1CA3AC9E8C5F96C481F446E\GameAssembly.lib and object D:\Unity Projects\Test_FMETP 2\Builds_HololensEncoder\build\obj\il2cppOutputProject\ARM\Release\linkresult_87B6BB32D1CA3AC9E8C5F96C481F446E\GameAssembly.exp
+  Total link time: 25911 milliseconds.
+  Cleaned up 104 object files.

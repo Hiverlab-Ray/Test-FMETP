@@ -1,0 +1,20 @@
+D:\Unity Projects\Test_FMETP 2\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef
+D:\Unity Projects\Test_FMETP 2\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef.meta
+D:\Unity Projects\Test_FMETP 2\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs
+D:\Unity Projects\Test_FMETP 2\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs.meta
+D:\Unity Projects\Test_FMETP 2\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll
+D:\Unity Projects\Test_FMETP 2\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll.meta
+D:\Unity Projects\Test_FMETP 2\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT.dll
+D:\Unity Projects\Test_FMETP 2\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\System.Drawing.Primitives.dll
+D:\Unity Projects\Test_FMETP 2\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.obj\Release\net46\DotNetAdapter.csprojAssemblyReference.cache
+D:\Unity Projects\Test_FMETP 2\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.obj\Release\net46\DotNetAdapter.csproj.CopyComplete
+D:\Unity Projects\Test_FMETP 2\Assets\External Dependencies\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef
+D:\Unity Projects\Test_FMETP 2\Assets\External Dependencies\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef.meta
+D:\Unity Projects\Test_FMETP 2\Assets\External Dependencies\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs
+D:\Unity Projects\Test_FMETP 2\Assets\External Dependencies\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs.meta
+D:\Unity Projects\Test_FMETP 2\Assets\External Dependencies\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll
+D:\Unity Projects\Test_FMETP 2\Assets\External Dependencies\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll.meta
+D:\Unity Projects\Test_FMETP 2\Assets\External Dependencies\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT.dll
+D:\Unity Projects\Test_FMETP 2\Assets\External Dependencies\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\System.Drawing.Primitives.dll
+D:\Unity Projects\Test_FMETP 2\Assets\External Dependencies\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.obj\Release\net46\DotNetAdapter.csprojAssemblyReference.cache
+D:\Unity Projects\Test_FMETP 2\Assets\External Dependencies\MixedRealityToolkit.Providers\WindowsMixedReality\Shared\DotNetAdapter\.obj\Release\net46\DotNetAdapter.csproj.CopyComplete
